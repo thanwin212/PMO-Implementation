@@ -17,6 +17,8 @@ Based on my knowledge of project management, team management, dedication, and co
 This project will exemplify my expertise in establishing a more structured project management mechanism, gaining a better understanding of the industry, fostering collaboration and communication, providing leadership, and implementing project evaluation and success measurement.
 
 ## learn more in the attachements
+[TECON_PMO CHARTER_OCT 2023.pdf](https://github.com/thanwin212/PMO-Implementation/files/13266129/TECON_PMO.CHARTER_OCT.2023.pdf)
+[PMO_Implementation Project Scope.pdf](https://github.com/thanwin212/PMO-Implementation/files/13266127/PMO_Implementation.Project.Scope.pdf)
 
-[TECON_PMO CHARTER_OCT 2023.docx](https://github.com/thanwin212/PMO-Implementation/files/13265920/TECON_PMO.CHARTER_OCT.2023.docx)
+
 
